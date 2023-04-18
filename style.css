@@ -1,0 +1,23 @@
+.content {
+	width: fit-content;
+	max-width: 600px;
+	margin: auto;
+}
+
+.ipa-chart {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.ipa-letter>img {
+	width: 100px;
+	height: 100px;
+}
+
+.ipa-letter>img:hover {
+	background-color: lightgray;
+}
+
+.data {
+	display: none;
+}
